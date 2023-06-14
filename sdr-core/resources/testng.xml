@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+
+<test thread-count="1" name="SpotifyIntegration">
+		<classes>
+			<class
+					name="ba.com.sdr.test.suites.SpotifyIntegrationRequestValidationTest"/>
+			<class
+					name="ba.com.sdr.test.suites.SpotifyIntegrationServiceTest"/>
+		</classes>
+	</test>
+	
+	
+</suite> 

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: ba.com.zira.stc:notification-api:7.1.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/ba/com/zira/stc/notification-api/7.1.0-SNAPSHOT/notification-api-7.1.0-20191007.074125-360.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/ba/com/zira/stc/notification-api/7.1.0-SNAPSHOT/notification-api-7.1.0-20191007.074125-360-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/ba/com/zira/stc/notification-api/7.1.0-SNAPSHOT/notification-api-7.1.0-20191007.074125-360-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
